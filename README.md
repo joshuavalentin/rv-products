@@ -1,2 +1,3 @@
-# rv-products
-Wordpress plugin for custom post type Products
+# RV (Products)
+
+Wordpress plugin for custom post type Products.
