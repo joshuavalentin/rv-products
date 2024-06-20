@@ -28,4 +28,4 @@ include ( plugin_dir_path( __FILE__ ) ) . '/inc/taxonomies.php';
 include ( plugin_dir_path( __FILE__ ) ) . '/inc/shortcodes.php';
 include ( plugin_dir_path( __FILE__ ) ) . '/inc/acf-globals.php';
 
-add_image_size( 'product_list_image', 500, 500, array( 'center', 'center' ) );
+add_image_size( 'product_list_image', 500, 500, false );
