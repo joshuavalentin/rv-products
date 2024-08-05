@@ -10,7 +10,7 @@
  * Plugin Name: RV Products
  * Plugin URI: https://revealit.nl/
  * Description: Adding the custom post type "Products" to WordPress theme.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Revealit
  * Author URI: https://revealit.nl
  * Text Domain: rv-products

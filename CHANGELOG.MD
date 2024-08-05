@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.1: 05/08/2024
+
+* Changed: SHortcode does not need tax attributes to work.
+* Fixed: PHP warning when no featured image is added to post.
+
 ## 1.0.0: 20/06/2024
 
 * Added: Changelog to plugin RV CPT Products.
